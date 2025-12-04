@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>La app necesita acceder a la cámara para escanear plantas.</string>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>La app necesita acceder a tus fotos para seleccionar imágenes.</string>
+
 </dict>
 </plist>
